@@ -27,7 +27,7 @@ time.sleep(1)
 print('....')
 time.sleep(1)
 print('....')
-print('\nPDA Active.')
+print('\nExoglasses Active.')
 time.sleep(1)
 print('''\n\nYou are capitain Flaren, leader of squad 12 aboard 
 the interstellar scout ship 'Sunbeam'. Enemies have boarded the research ship 'aurora'
